@@ -1,0 +1,18 @@
+{
+    "name": "ioki/wkhtmltopdf-amd64-centos6",
+    "description": "All the wkhtmltopdf binaries for Centos6.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/ioki/wkhtmltopdf-amd64-centos6",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-amd64-centos6"
+    ],
+    "require": {}
+}
